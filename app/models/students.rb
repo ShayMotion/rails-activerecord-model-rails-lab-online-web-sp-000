@@ -1,4 +1,4 @@
 class Student
-@student = student.to_s
+  @student = student.to_s
   end
 end
