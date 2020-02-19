@@ -1,5 +1,5 @@
 class Students < ActiveRecord::Migration[5.0]
   def change
-    add_column
+    add_column :first_name
   end
 end
